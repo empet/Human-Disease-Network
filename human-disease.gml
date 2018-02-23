@@ -1,4 +1,4 @@
-Creator "igraph version 0.7 Wed Feb 21 13:16:19 2018"
+Creator "igraph version 0.7 Fri Feb 23 12:10:19 2018"
 Version 1
 graph
 [
@@ -285,7 +285,7 @@ graph
     color "rgb(192, 187, 86)"
     disclass "Multiple"
     label "Alagille syndrome"
-    position "(-165.33331, 190.5775)"
+    position "(-165.33331, 195.5775)"
     type "disease"
     size 6
   ]
@@ -1517,7 +1517,7 @@ graph
     color "rgb(255, 255, 128)"
     disclass "Connective tissue disorder"
     label "Marfan syndrome"
-    position "(232.79227, 243.6027)"
+    position "(232.79227, 240.6027)"
     type "disease"
     size 6.372736
   ]
@@ -1968,7 +1968,7 @@ graph
     color "rgb(238, 68, 68)"
     disclass "Neurological"
     label "Subcortical laminar heterotopia"
-    position "(192.19113, 230.58665)"
+    position "(192.19113, 226.58665)"
     type "disease"
     size 6.372736
   ]
@@ -2408,7 +2408,7 @@ graph
     color "rgb(192, 187, 86)"
     disclass "Multiple"
     label "Shprintzen-Goldberg syndrome"
-    position "(207.95042, 241.3616)"
+    position "(207.95042, 245.3616)"
     type "disease"
     size 6
   ]
@@ -2419,7 +2419,7 @@ graph
     color "rgb(255, 255, 128)"
     disclass "Connective tissue disorder"
     label "Weill-Marchesani syndrome"
-    position "(218.30832, 237.9776)"
+    position "(218.30832, 240.9776)"
     type "disease"
     size 6.372736
   ]
