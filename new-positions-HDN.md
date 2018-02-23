@@ -58,4 +58,10 @@ K.vs[291]['position']='(-156.5389, -183.01988)'#Seasonal affective
 K.vs[198]['position']='(-111.1463, -199.20047)'#Shah-Waardenburg syndrome
 K.vs[501]['position']='(116.37462, -8.060032)'#Silver spastic paraplegia syndrome
 K.vs[207]['position']='(-25.1421933, 82.386284)'#'Emery-Dreifuss muscular dystrophy')
+
+K.vs[25]['position']='(-165.33331, 195.5775)'#Alagille syndrome
+K.vs[219]['position']='(218.30832, 240.9776)'#Weill-Marchesani syndrome
+K.vs[218]['position']='(207.95042, 245.3616)'#Shprintzen-Goldberg syndrome
+K.vs[178]['position']='(192.19113, 226.58665)'#Subcortical laminar heterotopia
+K.vs[137]['position']= '(232.79227, 240.6027)'#Marfan syndrome
 ```
