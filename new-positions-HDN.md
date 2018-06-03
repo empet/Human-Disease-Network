@@ -1,4 +1,4 @@
-
+Updates for the vertex positions in the igraph.Graph K, representing the human disease network
 
 ```python
 K.vs[40]['position']='(198, -230)'#Colon cancer
